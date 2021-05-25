@@ -1,0 +1,12 @@
+Package: cfgcsv
+Type: Package
+Title: Read CSV Configuration Files
+Version: 0.0-0
+Date: 2020-05-19
+Author: D. Michael Parrish
+Maintainer: dparrish <dparrish@sfwmd.gov>
+Description:
+    Facilities for reading special CSV files as a list of
+    key-value pairs.
+License: AGPL-3
+Encoding: UTF-8

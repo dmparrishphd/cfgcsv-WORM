@@ -1,0 +1,6 @@
+"GROUP","NAME","A","B","C","D"
+"ONE","define","part1","(text to replace part1)"
+"ONE","foo","partA","/partB","/partC"
+"ONE","bar","part1","/part2"
+"TWO","define","part1","(text to replace part1 for group TWO)"
+"TWO","foo","part1","/part2"

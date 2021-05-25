@@ -1,0 +1,6 @@
+Installation Instructions
+
+Copy the directory in which the present file is found, along
+with all its contents, to a known directory.
+
+This package is not designed for use with `install.packages`.
